@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC13 - Input Invalid Email dan klik button berikutnya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bef22587-59c3-483b-810e-5842c6d3db11</testCaseGuid>
+</TestCaseEntity>

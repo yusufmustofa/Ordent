@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Create New Account</name>
+   <tag></tag>
+   <elementGuidId>b10dd81d-98aa-4952-bec7-a3aec2fe48a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='blueBarDOMInspector']/div/div[2]/div/div/span/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a._42ft._4jy0.signup_btn._4jy4._4jy2.selected._51sy</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>926b14f2-46b8-40c9-a2ef-aa68e7da5b48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bdcfa673-840f-45cf-b1ff-5749ba6a915f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_42ft _4jy0 signup_btn _4jy4 _4jy2 selected _51sy</value>
+      <webElementGuid>87d85565-de49-4754-829b-20e82db28602</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/r.php?locale=en_GB</value>
+      <webElementGuid>53c8765e-ef06-43f0-83fa-ada15a956c84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create New Account</value>
+      <webElementGuid>9d0d212a-c920-4acf-9991-85d38bd10308</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;blueBarDOMInspector&quot;)/div[@class=&quot;_53jh&quot;]/div[@class=&quot;signupBanner&quot;]/div[@class=&quot;signup_bar_container&quot;]/div[@class=&quot;signup_box clearfix&quot;]/span[@class=&quot;signup_box_content&quot;]/a[@class=&quot;_42ft _4jy0 signup_btn _4jy4 _4jy2 selected _51sy&quot;]</value>
+      <webElementGuid>6be3ed90-20e4-4b05-b943-54780c75cda7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='blueBarDOMInspector']/div/div[2]/div/div/span/a</value>
+      <webElementGuid>610d03cb-8139-4cb1-a158-1e8fa9064e88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Create New Account')]</value>
+      <webElementGuid>83c80ba4-4998-403e-aa19-226bf5d31e8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/following::a[1]</value>
+      <webElementGuid>ed00d293-b11a-4e11-ba45-6201d69ac762</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in to Facebook'])[1]/preceding::a[1]</value>
+      <webElementGuid>89f65842-30fd-4ae8-987d-805606ff4c58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error Accessing App'])[1]/preceding::a[1]</value>
+      <webElementGuid>1d7bb818-318e-426d-bd42-f679404e7eea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create New Account']/parent::*</value>
+      <webElementGuid>767908a8-9418-437c-9346-0f4d4e049f2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/r.php?locale=en_GB')]</value>
+      <webElementGuid>383597ff-3240-4904-9ff3-be40f4a0e3fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>6f791abb-7e50-4ceb-b387-d8cc295b6e18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/r.php?locale=en_GB' and (text() = 'Create New Account' or . = 'Create New Account')]</value>
+      <webElementGuid>bb9e536f-64d0-411d-9b48-5bf13c08c326</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

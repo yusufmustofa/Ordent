@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC10 - Input invalid sandi dan klik button berikutnya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63de8cad-d99c-424b-a26c-00694863f13f</testCaseGuid>
+</TestCaseEntity>

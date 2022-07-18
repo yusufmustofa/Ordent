@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC15 - Input valid email dan klik button berikutnya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5f11947-ab2d-4bae-b058-4803a39cf1ca</testCaseGuid>
+</TestCaseEntity>
